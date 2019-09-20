@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="758939a6-335a-44f7-8600-83a8114abf70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build learn_go_ccmouse/maze">
+  <component name="RunManager" selected="Go Build.go build learn_go_ccmouse/basic/regex">
     <configuration name="go build channel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn_go_ccmouse" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -96,12 +97,21 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goroutine.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build learn_go_ccmouse/basic/regex" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn_go_ccmouse" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goroutine/goroutine.go" />
-      <package value="learn_go_ccmouse" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/basic/regex/regex.go" />
+      <package value="learn_go_ccmouse/basic/regex" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learn_go_ccmouse/crawler" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn_go_ccmouse" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/crawler/main.go" />
+      <package value="learn_go_ccmouse/crawler" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -116,10 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build learn_go_ccmouse/basic/regex" />
+        <item itemvalue="Go Build.go build learn_go_ccmouse/crawler" />
         <item itemvalue="Go Build.go build learn_go_ccmouse/maze" />
         <item itemvalue="Go Build.go build done.go" />
         <item itemvalue="Go Build.go build channel.go" />
-        <item itemvalue="Go Build.go build goroutine.go" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +151,8 @@
       <workItem from="1564129088702" duration="4704000" />
       <workItem from="1567341347845" duration="1718000" />
       <workItem from="1567389659613" duration="204000" />
-      <workItem from="1567854979744" duration="5115000" />
+      <workItem from="1567854979744" duration="6265000" />
+      <workItem from="1567867838266" duration="4216000" />
     </task>
     <servers />
   </component>
