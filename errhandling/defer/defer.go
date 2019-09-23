@@ -32,7 +32,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"learngo/functional/fib"
+	"learn_go_ccmouse/functional/fib"
 	"os"
 )
 

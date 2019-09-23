@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learngo/queue"
+	"learn_go_ccmouse/queue"
 )
 
 func main() {

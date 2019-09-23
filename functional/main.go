@@ -10,7 +10,7 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"learngo/functional/fib"
+	"learn_go_ccmouse/functional/fib"
 	"strings"
 )
 

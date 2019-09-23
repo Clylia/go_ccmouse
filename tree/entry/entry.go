@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learngo/tree"
+	"learn_go_ccmouse/tree"
 )
 
 // 定义一个内容中包含另一个结构体的结构体
