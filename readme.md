@@ -1,4 +1,4 @@
-# learn_go_ccmouse
+# go_ccmouse
 
 ### 分组定义
 1. 基础知识（变量定义、简单数据类型、常量、枚举、iota的使用）-- basic/basic.go
